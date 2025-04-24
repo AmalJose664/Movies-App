@@ -1,0 +1,43 @@
+.row{
+    margin-left: 20px;
+    color: white;
+}
+
+.posters{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.posters::-webkit-scrollbar {
+    height: 8px;
+    background-color: #1c1c1c;
+    border-radius: 10px;
+}
+
+.posters::-webkit-scrollbar-thumb {
+    background-color: #e50914;
+    border-radius: 10px;
+    border: 2px solid #1c1c1c;
+}
+
+.posters::-webkit-scrollbar-thumb:hover {
+    background-color: #ff4c4c;
+}
+.poster{
+    max-height: 250px;
+}
+.small-poster{
+    max-height: 150px;
+}
+.small-poster,
+.poster{
+    transition: ease .45s all;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.small-poster,.poster:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,14 @@
+f495637c517e8a95dedf9756ec85e1b2
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNDk1NjM3YzUxN2U4YTk1ZGVkZjk3NTZlYzg1ZTFiMiIsIm5iZiI6MTczMTMxMzIwNi41NzI2OTQ4LCJzdWIiOiI2NzMxYmNlOTdlZjJjMzFkNzhlZGFiYzMiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.oJ9SZ3rtc3GVq_y4vUM3Tx15RJ8WIH-ZRy7rAf8c3Wc
+
+
+
+https://api.themoviedb.org/3/discover/movie?api_key=f495637c517e8a95dedf9756ec85e1b2&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=2&with_genres=28&with_watch_monetization_types=flatrated
+
+
+https://developer.themoviedb.org/docs/image-basics
+
+
+https://api.themoviedb.org/3/genre/movie/list?api_key=f495637c517e8a95dedf9756ec85e1b2&language=en-US
